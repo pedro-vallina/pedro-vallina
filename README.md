@@ -1,16 +1,41 @@
-## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Pedro-Vallina!;I'm+a+learning+data+scientist...;I'm+a+CRAZY+rugby+fan;And+I'm+a+proud+GitHub+user)](https://git.io/typing-svg)
 
-<!--
-**pedro-vallina/pedro-vallina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- I am a Data Science and Engineering student, currently halfway through my degree.
+- I'm expanding my knowledge in back-end development, being passionate about artificial inteligence and data analisis.
+- Outside tech, I enjoy doing sport and listening to music, as well as any kind of outdoor activities.
+- Reach out to me at: <a href="pedrovallinainsua@gmail.com">pedrovallinainsua@gmail.com</a>
 
-Here are some ideas to get you started:
+## My skills include
+<h4>Languajes</h4>
+  <span>
+  <img src=https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54>
+  <img src=https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white>
+  <img src=https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white>
+  </span>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h4>Tools</h4>
+  <span>
+  <img src=https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white>
+  <img src=https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white>
+  <img src=https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white>
+  <img src=https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=red>
+  </span>
+
+<h4>IDE</h4>
+  <span>
+  <img src=https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white>
+  <img src=https://img.shields.io/badge/RStudio-4285F4?style=for-the-badge&logo=rstudio&logoColor=white>
+  <img src=https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black>
+  </span>
+
+<h4>Learning</h4>
+  <span>
+  <img src=https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white>
+  <img src=https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white>
+  </span>
+
+
+## Check out my LinkedIn
+<a href="https://www.linkedin.com/in/pedro-vallina-insua-60227129b/">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
