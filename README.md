@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Pedro-Vallina!;I'm+a+learning+data+scientist...;I'm+a+CRAZY+rugby+fan;And+I'm+a+proud+GitHub+user)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Pedro-Vallina!;I'm+a+learning+data+scientist...;And+I'm+a+CRAZY+rugby+fan)](https://git.io/typing-svg)
 
 - I am a Data Science and Engineering student, currently halfway through my degree.
 - I'm expanding my knowledge in back-end development, being passionate about artificial inteligence and data analisis.
@@ -33,6 +33,8 @@
   <span>
   <img src=https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white>
   <img src=https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white>
+  <img src=https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white>
+  <img src=https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white>
   </span>
 
 
